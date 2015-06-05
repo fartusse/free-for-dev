@@ -233,6 +233,7 @@ Table of Contents
 
 ## PaaS
 
+  * http://restlet.com/products/apispark/ - APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface. 
   * https://cloud.google.com/appengine/ - Google App Engine gives 28 instance hours free, 1Gb NoSQL Database and more.
   * https://www.engineyard.com/ - Engine Yard provides 500 free hours
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
